@@ -1,0 +1,63 @@
+@media only screen and (max-width: 640px){
+  #home{
+    height:500px;
+    position:relative;
+  }
+  .home-item h1{
+    position:absolute;
+    top:42%;
+    right:29%;
+  }
+  .skill-contact{
+    flex-wrap: wrap;
+  }
+  .skill-item{
+    width:80%;
+    margin:0 auto;
+  }
+  .about-contact{
+    flex-wrap: wrap;
+  }
+  .about-item{
+    width:85%;
+  }
+  .heading{
+    text-align: center;
+  }
+  .about-textarea{
+    width:85%;
+  }
+  .service-contact{
+    flex-wrap: wrap;
+  }
+  .service-item{
+    width:80%;
+    margin:0 auto;
+  }
+  .service-textarea{
+    width:80%;
+    margin:0 auto;
+    padding-top:50px;
+  }
+  .works-contact{
+    flex-wrap: wrap;
+  }
+  .works-item{
+    width:90%;
+    margin:0 auto;
+    padding-bottom:50px;
+  }
+  .container4{
+    width:80%;
+    margin:0 auto;
+  }
+  header{
+    display:none;
+  }
+  .header-nav{
+    display:block;
+  }
+  #home{
+    padding-top:23px;
+  }
+}
